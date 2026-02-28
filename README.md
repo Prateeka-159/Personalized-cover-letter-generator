@@ -27,5 +27,3 @@ Backend – Python
 LLM Execution – Ollama
 Document Processing – PaddleOCR
 
-
-Performance optimization
